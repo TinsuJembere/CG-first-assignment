@@ -6,10 +6,9 @@ This project is an interactive 3D product viewer built using **Three.js**. It de
 
 This application serves as a practical exercise, applying foundational concepts from Three.js including scene setup, mesh composition, lighting, raycasting for interaction, camera animation, and responsiveness.
 
-## Live Demo (Optional)
+## Live Demo
 
-If you deploy your project to GitHub Pages or another hosting service, you can add a link here:
-[View Live Demo](YOUR_LIVE_DEMO_URL_HERE)
+https://tinsujembere.github.io/CG-first-assignment/
 
 ## Features
 
